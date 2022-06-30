@@ -1,0 +1,134 @@
+{
+    "listas": [
+        {
+            "id": "0",
+            "dia": "Domingo",
+            "items": [
+                {
+                    "nombre": "arroz",
+                    "cantidad": 1
+                },
+                {
+                    "nombre": "azucar",
+                    "cantidad": 4
+                },
+                {
+                    "nombre": "galletitas",
+                    "cantidad": 3
+                }
+            ]
+        },
+        {
+            "id": "1",
+            "dia": "Lunes",
+            "items": [
+                {
+                    "nombre": "aceite",
+                    "cantidad": 2
+                },
+                {
+                    "nombre": "ketchup",
+                    "cantidad": 1
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "dia": "Martes",
+            "items": [
+                {
+                    "nombre": "jabon",
+                    "cantidad": 2
+                },
+                {
+                    "nombre": "shampoo",
+                    "cantidad": 1
+                },
+                {
+                    "nombre": "acondicionador",
+                    "cantidad": 1
+                },
+                {
+                    "nombre": "desodorante",
+                    "cantidad": 3
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "dia": "Miercoles",
+            "items": [
+                {
+                    "nombre": "leche",
+                    "cantidad": 6
+                },
+                {
+                    "nombre": "manteca",
+                    "cantidad": 2
+                },
+                {
+                    "nombre": "pan",
+                    "cantidad": 1
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "dia": "Jueves",
+            "items": [
+                {
+                    "nombre": "pepsi",
+                    "cantidad": 2
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "dia": "Viernes",
+            "items": [
+                {
+                    "nombre": "fideos",
+                    "cantidad": 4
+                },
+                {
+                    "nombre": "pan",
+                    "cantidad": 1
+                },
+                {
+                    "nombre": "pure de tomate",
+                    "cantidad": 2
+                },
+                {
+                    "nombre": "sal",
+                    "cantidad": 1
+                },
+                {
+                    "nombre": "servilletas",
+                    "cantidad": 1
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "dia": "Sabado",
+            "items": [
+                {
+                    "nombre": "cerveza",
+                    "cantidad": 6
+                },
+                {
+                    "nombre": "vino",
+                    "cantidad": 2
+                },
+                {
+                    "nombre": "fernet",
+                    "cantidad": 1
+                },
+                {
+                    "nombre": "coca",
+                    "cantidad": 2
+                }
+            ]
+        }
+    ]
+}
